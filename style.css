@@ -1,0 +1,42 @@
+.header{
+	background-color: green;
+	color: red;
+	min-height: 100px;
+}
+
+ul{
+	float: right;
+	list-style: none;
+	margin-top: 15px;
+	color: red;
+}
+ li{
+ 	display: inline-block;
+ 	padding: 10px 10px;
+ 	margin-right: 50px;
+ 	font-size: 30px;
+ 	color: red;
+
+ }
+ .wrapper{
+ 	overflow: hidden;
+ }
+
+ .blog{
+ 	background-color: red;
+ 	width: 70%;
+ 	height: 700px;
+ 	float: left;
+ }
+
+ .content{
+ 	background-color: aqua;
+ 	width: 30%;
+ 	height: 700px;
+ 	float: right;
+ }
+
+ .footer{
+ 	background-color: black;
+ 	min-height: 100px;
+ }
